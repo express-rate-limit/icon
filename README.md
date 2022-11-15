@@ -4,8 +4,8 @@ express-rate-limit icon by [@joshtwist](https://github.com/joshtwist) / [Zuplo](
 
 png: 
 
-![png](/erl-icon.png)
+![express-rate-limit icon as a png](/erl-icon.png)
 
 svg:
 
-![svg](/erl-icon.svg)
+<img alt="express-rate-limit icon as a svg" height="205" width="205" src="/erl-icon.svg" />
